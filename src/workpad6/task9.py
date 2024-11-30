@@ -1,0 +1,5 @@
+A = set(['a', 'b', 'c'])
+B = set(['q', 'w', 'c'])
+print(A | B)
+print(A & B)
+print(A - B)
